@@ -1,4 +1,4 @@
-# Unveiling-Airbnb's-Operational-Dynamics-A-Data-Driven-Exploration
+# Unveiling-Airbnb's-Operational-Dynamics-A-Data-Driven-Exploration- PowerBI Project
 
 Embarking on a journey to unravel the intricacies of Airbnb's operational landscape, I delved into the data to extract valuable insights that shed light on user experiences and satisfaction levels across a myriad of listed stays. Leveraging the power of Power BI, I navigated through vast datasets to distill meaningful patterns and trends.
 
